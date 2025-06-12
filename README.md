@@ -1,5 +1,9 @@
 # Calorie Camera by @mortrpestl 
- <img src="https://raw.githubusercontent.com/mortrpestl/calorie-camera/main/app_icons/icon.jpg">
+<p align="center">
+  <a href="https://github.com/mortrpestl/calorie-camera/releases/download/v1/app-v1.apk">
+    <img src="https://raw.githubusercontent.com/mortrpestl/calorie-camera/main/app_icons/icon.png" alt="Icon" />
+  </a>
+</p>
 
 My own take on estimating calories based on an object detection app based on YOLOv8. Some software used include Android Studio (with Kotlin), Google Colab, and Python. [Dataset](https://universe.roboflow.com/food-1b74y/food-recognition-challenge/dataset/2/download) obtained from Roboflow. More info on the bottom for helpful repositories.
 
