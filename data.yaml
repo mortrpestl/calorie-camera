@@ -1,0 +1,13 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+test: ../dataset/test/images
+
+nc: 24
+names: ['Bread', 'Burger', 'Cake', 'Chocolate', 'Dairy', 'Drink', 'Egg', 'Fish', 'Fruit', 'Lasagne', 'Legume', 'Meat', 'Noodle', 'Nut', 'Pastry', 'Pizza', 'Potato', 'Rice', 'Sauce', 'Shrimp', 'Sushi', 'Tofu', 'Vegetable', 'biscuits']
+
+roboflow:
+  workspace: food-1b74y
+  project: food-recognition-challenge
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/food-1b74y/food-recognition-challenge/dataset/2

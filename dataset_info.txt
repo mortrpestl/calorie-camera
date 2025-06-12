@@ -1,0 +1,3 @@
+Download the dataset in the following link with "YOLOv8" labels
+
+https://universe.roboflow.com/food-1b74y/food-recognition-challenge/dataset/2/download
