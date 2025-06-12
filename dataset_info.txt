@@ -1,3 +1,19 @@
+The dataset folder is removed from here because it is too large.
+
 Download the dataset in the following link with "YOLOv8" labels
+
+The structure is as follows:
+
+dataset
+- test
+-- images
+-- labels
+- train
+-- images
+-- labels
+- val
+-- images
+-- labels
+
 
 https://universe.roboflow.com/food-1b74y/food-recognition-challenge/dataset/2/download
