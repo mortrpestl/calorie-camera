@@ -7,6 +7,8 @@
 
 My own take on estimating calories based on an object detection app based on YOLOv8. Some software used include Android Studio (with Kotlin), Google Colab, and Python. [Dataset](https://universe.roboflow.com/food-1b74y/food-recognition-challenge/dataset/2/download) obtained from Roboflow. More info on the bottom for helpful repositories.
 
+The project right now only detects the food. The calorie predictions will be done by cross-referencing the predicted file using a dataset and displaying it through the app's GUI. You may even fork this and extend that functionality if you want.
+
 # Documentation
 ## Example Predictions of Model
 
